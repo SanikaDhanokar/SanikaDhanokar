@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/d8734c949ed67059e1d9962394d2a68db3e9d36a0bb425447795fce8a022ef2a/68747470733a2f2f7777772e61726b61736f667477617265732e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031382f31312f6865616465725f62616e6e65722e6a7067)
+![MasterHead](https://camo.githubusercontent.com/d8734c949ed67059e1d9962394d2a68db3e9d36a0bb425447795fce8a022ef2a/68747470733a2f2f7777772e61726b61736f667477617265732e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031382f31312f6865616465725f62616e6e65722e6a7067)
 <h1 align="center">Hi 👋, I'm Sanika Dhanokar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
